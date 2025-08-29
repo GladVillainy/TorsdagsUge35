@@ -1,0 +1,10 @@
+String teachers = "Tess Løvgreen";// the name of the teacher
+int a = 365; // A year
+String cityName = "København"; // City name
+boolean female = true; // Is happy
+int hour = 60*24; // hours in a day
+float age = 22.12; //Personens alder
+String greeting = "Hej, jeg heddder "+teacher; //Greetings
+boolean male =false; //is unhappy
+float sleeping = 2.2 + 33; // how long you sleep at night
+char sleep = 'S';
